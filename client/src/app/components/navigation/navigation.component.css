@@ -1,0 +1,7 @@
+li>a.nav-link.active {
+    color: rgba(24, 188, 156, 1);
+}
+
+li>a.nav-link {
+    color: rgba(24, 188, 156, 0.4);
+}
